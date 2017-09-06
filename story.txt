@@ -2,4 +2,6 @@ A long time ago, in a galaxy some-what far, some-what far away...
 
 A young programmer, James Glass, took the industry by storm...
 
-I'M CURRENTLY EDITING THE EXPERIMENTAL BRANCH AND NOT THE MASTER HEHE
+I'M CURRENTLY EDITING THE EXPERIMENTAL BRANCH AND NOT THE MASTER
+
+I successfully merged the Master and Experimental Branch!
